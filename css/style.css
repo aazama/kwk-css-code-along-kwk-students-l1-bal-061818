@@ -1,1 +1,9 @@
 /* add CSS class and element and selectors here */
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+body {
+      background-color: lightblue;
+    }
+
+    #title-section {font-size:100%;}
+
+.info-section {font-family: comic sans}
